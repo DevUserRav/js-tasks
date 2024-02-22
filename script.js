@@ -30,12 +30,12 @@
 
 
 
-function calcNumbers (num){
-    for (let i = 1; i< 11; i++){
-        let sum = num * i;
-        console.log(`${num} * ${i} = ${sum}`);
-    }
-    return num;
-}
+// function calcNumbers (num){
+//     for (let i = 1; i< 11; i++){
+//         let sum = num * i;
+//         console.log(`${num} * ${i} = ${sum}`);
+//     }
+//     return num;
+// }
 
-calcNumbers(6);
+// calcNumbers(6);
