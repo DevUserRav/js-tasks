@@ -30,7 +30,6 @@
 
 
 
-// function calcNumbers (num){
 //     for (let i = 1; i< 11; i++){
 //         let sum = num * i;
 //         console.log(`${num} * ${i} = ${sum}`);
@@ -39,3 +38,5 @@
 // }
 
 // calcNumbers(6);
+
+// -------- hw -------
